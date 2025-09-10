@@ -1,6 +1,6 @@
-# 🌱 ProGro – Crop & Fertilizer Recommendation System
+# 🌱 FarmAssist – Crop & Fertilizer Recommendation System
 
-ProGro is a web-based system that helps farmers make better agricultural decisions by predicting the most suitable **crops** and recommending the best **fertilizers**.  
+FarmAssist is a web-based system that helps farmers make better agricultural decisions by predicting the most suitable **crops** and recommending the best **fertilizers**.  
 The system is built using **Logistic Regression models** trained on agricultural datasets and presented through a web interface with multiple HTML templates.
 
 ---
