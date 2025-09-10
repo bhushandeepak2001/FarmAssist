@@ -1,0 +1,27 @@
+# 🌱 ProGro – Crop & Fertilizer Recommendation System
+
+ProGro is a web-based system that helps farmers choose the **right crop** and the **right fertilizer** using **Logistic Regression models**.  
+It is built with Flask and Python, with a simple web interface powered by HTML templates.
+
+
+1. Create virtual environment
+
+    python -m venv venv
+    source venv/bin/activate   # Mac/Linux
+    venv\Scripts\activate      # Windows
+
+
+2. Install dependencies
+
+    pip install -r requirements.txt
+
+3. ▶️ Usage
+
+    Run the app:
+
+    python main.py
+
+
+4. Then open:
+
+    http://127.0.0.1:5000
